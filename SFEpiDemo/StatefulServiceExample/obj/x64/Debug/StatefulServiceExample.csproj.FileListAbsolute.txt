@@ -1,0 +1,17 @@
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\StatefulServiceExample.exe.config
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\StatefulServiceExample.exe
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\StatefulServiceExample.pdb
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\System.Fabric.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\System.Fabric.xml
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\bin\x64\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\obj\x64\Debug\StatefulServiceExample.exe
+C:\Users\kapeltol\Documents\SFDemoEpi\SFEpiDemo\StatefulServiceExample\obj\x64\Debug\StatefulServiceExample.pdb
